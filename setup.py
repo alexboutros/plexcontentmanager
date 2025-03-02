@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="plexcontentmanager",
-    version="0.1.0",
+    version="0.1.1",
     author="Alex Boutros",
     author_email="alex@aterrible.day",
     description="A command-line tool for managing and curating Plex Media Server content",
